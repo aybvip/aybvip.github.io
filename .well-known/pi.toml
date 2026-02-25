@@ -5,8 +5,8 @@ name="FIXORA"
 email="fixoratk@gmail.com"
 
 [[CURRENCIES]]
-code="FXR"
-issuer="GAKBW77NDG6GH2AAD7QVOSXRRSODQ3R62IKWUGFVIJTFIAZBRUMUK7RW"
+code="FAY"
+issuer="GANNWNJB7PDZWAIGAHYDOV4MFZHZMKNDEDOEQC6UBTAR4YJAP5I3XZ54"
 display_decimals=2
 name="Fixora Token"
 desc="The native utility token for Fixora Marketplace, used for rewarding professional service providers and unlocking premium platform features within the Pi Network ecosystem."
