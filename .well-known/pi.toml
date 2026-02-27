@@ -1,13 +1,22 @@
-VERSION="1.0.0"
-
 [[CURRENCIES]]
 code="FAY"
 issuer="GANNWNJB7PDZWAIGAHYDOV4MFZHZMKNDEDOEQC6UBTAR4YJAP5I3XZ54"
 display_decimals=2
-name="Fixora Token"
+name="FAY Token"
 desc="The native utility token for Fixora Marketplace, used for rewarding professional service providers and unlocking premium platform features within the Pi Network ecosystem."
 image="https://aybvip.github.io/FAY.png"
+is_asset_with_backstop=true
+anchor_asset_type="other"
+fixed_number_of_coins=false
 
-[[PRINCIPALS]]
-name="FIXORA"
-email="fixoratk@gmail.com"
+[[CURRENCIES]]
+code="Test-Pi"
+issuer="GDPGKGBCKOSWS6OT7YY7LCOCCGLC2Y67S66S6R7S6R7S6R7S6R7S6R7S"
+display_decimals=7
+name="Test Pi"
+desc="Pi Network Testnet Native Asset"
+
+[DOCUMENTATION]
+org_name="Fixora"
+org_url="https://aybvip.github.io"
+org_description="Fixora Marketplace Ecosystem"
